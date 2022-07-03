@@ -14,9 +14,9 @@
 ## Features
 
 + 🚧 Pagina de filmes 70% <a href="https://joaofernandesxd.github.io/ver-filme-cinetelas/">Demo</a>
-+ ❌ Pagina inicial  0%
-+ ❌ Pagina series   0%
-+ ❌ Paginas todas series e filmes 0%
++ 🚧 Pagina inicial  0%
++ 🚧 Pagina series   0%
++ 🚧 Paginas todas series e filmes 0%
 
 
 
