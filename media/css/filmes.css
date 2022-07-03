@@ -546,14 +546,15 @@ main .see__more {
 		display: none;
 	}
 	main .container__movie .description__movie {
-		padding: 0 20% 0 20%;
+		padding: 0 35% 0 35%;
 	}
 	main .description__movie .language{
 		display: flex;
 		justify-content: center;
 	}
 	main .container__comment {
-		margin: 800px auto;
+		margin-top: 800px;
+		padding: 0 10% 0 10%;
 	}
 	main textarea{
 		padding-right: 50px;
@@ -561,6 +562,7 @@ main .see__more {
 	}
 	main .container__movie {
 		padding: 0 10% 0 10%;
+
 	}
 	nav {
 		display: none;
@@ -570,8 +572,20 @@ main .see__more {
 	}
 	.profile__notification {
 		float: right;
-		margin-left: 220px;
+		margin-left: 210px;
 		position: absolute;
 	}
-
+	main .description__movie h1 {
+		font-size: 2rem;
+	}
+	main .container__comment .container__box-alert span {
+		display: none;
+	}
+	main .container__comment .container__box-alert span {
+		display: none;
+	}
+	main .container__comment .container__box-alert {
+		display: flex;
+		justify-content: center;
+	}
 }
