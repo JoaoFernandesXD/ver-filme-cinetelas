@@ -546,7 +546,9 @@ main .see__more {
 		display: none;
 	}
 	main .container__movie .description__movie {
-		padding: 0 35% 0 35%;
+		padding: 0 10% 0 10%;
+		width: 410px;
+		
 	}
 	main .description__movie .language{
 		display: flex;
@@ -562,13 +564,18 @@ main .see__more {
 	}
 	main .container__movie {
 		padding: 0 10% 0 10%;
-
 	}
 	nav {
 		display: none;
 	}
 	.profile span, .profile .profile__Image{
 		display: none;
+	}
+	main .comment__post .profile__Image{
+		display: none;
+	}
+	main .container__comment .comment__post .profile__Image {
+   		display: none;
 	}
 	.profile__notification {
 		float: right;
@@ -587,5 +594,15 @@ main .see__more {
 	main .container__comment .container__box-alert {
 		display: flex;
 		justify-content: center;
+	}
+	main .container__comment .comment__post{
+		margin-left: 0px;
+	}
+	main .container__comment textarea {
+    	margin-left: 0px;
+    	margin-top: 50px;
+	}
+	main .container__comment .comment__row {
+   		margin-left: 0px;
 	}
 }
